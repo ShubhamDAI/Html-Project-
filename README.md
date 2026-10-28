@@ -1,32 +1,36 @@
 
 <a href="https://github.com/ShubhamDAI/Html-Project-/blob/main/Register.html">View Code</a>
 
-##About the Project
 
--This is a Student Registration Form created using HTML. It provides different fields to collect basic student information, including personal details, contact information, department, course and address.
+## About the Project
 
-##Tools Used
+This is a Student Registration Form created using HTML. It provides different fields to collect basic student information, including personal details, contact information, department, course and address.
 
--HTML HTML Forms HTML Tables Input Elements
+## Tools Used
 
-##Features
+- HTML
+- HTML Forms
+- HTML Tables
+- Input Elements
 
--Student roll number and name fields.
--Father's name and date of birth fields.
--Mobile number and email fields.
--Gender selection using radio buttons.
--Department selection using checkboxes.
--Course selection using a dropdown list.
--Photo upload and address fields.
+## Features
 
-##What I Learned
+- Student roll number and name fields.
+- Father's name and date of birth fields.
+- Mobile number and email fields.
+- Gender selection using radio buttons.
+- Department selection using checkboxes.
+- Course selection using a dropdown list.
+- Photo upload and address fields.
 
--Basic structure of an HTML document.
--How to create tables using table, tr and td.
--How to create forms and input fields.
--How radio buttons and checkboxes work.
--How to create dropdown lists using select and option.
--How to use textarea for entering an address.
+## What I Learned
+
+- Basic structure of an HTML document.
+- How to create tables using table, tr and td.
+- How to create forms and input fields.
+- How radio buttons and checkboxes work.
+- How to create dropdown lists using select and option.
+- How to use textarea for entering an address.
 
 -View
 
