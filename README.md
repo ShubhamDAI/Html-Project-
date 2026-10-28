@@ -25,3 +25,13 @@
 
 -View
 <img width="740" height="848" alt="Screenshot 2026-10-26 200932" src="https://github.com/user-attachments/assets/8c8901f3-f9e0-437e-bc13-9e0a3f9c0928" />
+### 🚀 Used 
+- Dynamic KPI cards for key school statistics
+- Interactive charts to visualize educational stages
+- Pivot Tables for data summarization and analysis
+- Day and Month slicers for interactive filtering
+- Calendar and attendance interface
+- Dedicated Teachers, Students, Events, and Exams pages
+- Excel formulas for automatic updates and linked dashboard elements
+- Interactive navigation between worksheets
+- Using of Macro by write a VBA code
